@@ -1,2 +1,2 @@
-# NN
-Create a simple NN in python.
+# Create a simple Neural Network in python.
+# It seems like there is some error in accuracy...
